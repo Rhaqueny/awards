@@ -16,3 +16,4 @@ Currently, two official plugins are available:
 # awards
 # awards
 # awards2
+# awards
